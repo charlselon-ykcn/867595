@@ -4,7 +4,7 @@
 
 Show product features through fast light-and-dark cuts, bold type and interface demonstrations.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.5** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.6-alpha.1** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@motiongit/motiongit-promo-velocity)**
 https://motiongit.com/@motiongit/motiongit-promo-velocity
@@ -23,9 +23,9 @@ Download available; current terms are listed with the package.
 
 - Declared runtime profile: html-canvas/1.
 - Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
-- The declared timeline has a fixed duration; new content fits its existing scene order and timing.
+- The declared duration policy follows the current content; the package plan determines final timing.
 
-Demo duration: **57s**. The documented output is 1920 × 1080, 60 fps. The public demo is 57 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Automatic portrait output, voiceover synchronization or arbitrary scene reordering. Arbitrary short or different claim structures without checking the fixed 13-scene arrangement and remaining dynamic wording. Automatic semantic reframing without checking the actual subject, crop and current footage.
+Demo duration: **57s**. The documented output is 1920 × 1080, 60 fps. The public demo is 57 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Arbitrary short or different claim structures without checking the 13-scene arrangement and remaining dynamic wording; reordering or repeating scenes (new velocity-seam pairs are not reviewed). Arbitrary short or different claim structures without checking the fixed 13-scene arrangement and remaining dynamic wording. Automatic semantic reframing without checking the actual subject, crop and current footage.
 
 ## Inputs and materials
 

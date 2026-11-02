@@ -4,7 +4,7 @@
 
 明暗画面快速切换，结合大字和界面展示突出产品功能，适合节奏鲜明的宣传片。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.5** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.6-alpha.1** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@motiongit/motiongit-promo-velocity)**
 https://motiongit.com/@motiongit/motiongit-promo-velocity
@@ -23,7 +23,7 @@ https://motiongit.com/@motiongit/motiongit-promo-velocity
 
 - 声明的运行配置：html-canvas/1。
 - 通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。
-- 已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。
+- 已声明时长随本期内容适配，最终节奏由包内制作计划确定。
 
 样片时长: **57s**. 已声明输出为 1920 × 1080，60 fps；公开样片 57 秒。 按实际包的参数边界制作；增加素材不会自动增加场景。
 
